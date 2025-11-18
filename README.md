@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yankaue10/)
 
-![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanKaue10&show_icons=true&theme=merko)
+![Yan GitHub stats](https://github-readme-stats.vercel.app/api?username=YanKaue10&show_icons=true&theme=merko)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YanKaue10&layout=compact)
 
 ## Tecnologias que eu uso / Estudo
 
