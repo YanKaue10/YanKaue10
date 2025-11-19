@@ -1,5 +1,5 @@
 ### Hello, I'm Yan Kauê 👋🏽  
-## I'm a student in the Software Engineering course. Currently developing/studying Back-End | Java.
+## Este GitHub reúne meus projetos pessoais e estudos. Atualmente estudo Java e Spring Boot, além de praticar desenvolvimento com PostgreSQL.Também estou aprendendo desenvolvimento web básico, estudando JavaScript, HTML, CSS e explorando frameworks como React e Angular.Aqui você pode acompanhar minha evolução como desenvolvedor, meu fluxo de versionamento e minhas práticas de organização de código.
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yankaue10/)
